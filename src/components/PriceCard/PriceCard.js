@@ -3,8 +3,7 @@ import styled from "styled-components";
 const PriceCardWrapper = styled.div`
   border: 4px solid white;
   margin-bottom: 30px;
-  max-width: 300px;
-  min-width: 200px;
+  width: 300px;
   border: 2px solid ${(props) => props.theme.secondaryColor};
 
   .header {
