@@ -53,4 +53,4 @@ jobs:
           app-name: "CakesNBakes"
           slot-name: "Production"
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CD8315A26534EF4ABA019AFD6752DD5 }}
-          package: build
+          package: .
