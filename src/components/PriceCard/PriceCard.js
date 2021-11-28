@@ -19,7 +19,7 @@ const PriceCardWrapper = styled.div`
   .content {
     padding: 5px;
     padding-bottom: 20px;
-    height: 150px;
+    height: 130px;
     overflow-y: auto;
   }
 
