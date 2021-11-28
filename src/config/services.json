@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Box of 6 Cookie Bars",
+    "description": "Choose from Mini Eggs, Smarties, Malteaser",
+    "price": 12,
+    "image": "cookie-bars.jpg"
+  },
+  {
+    "title": "12 Cupcakes",
+    "description": "Choose from Chocolate, Toffee, Jam",
+    "price": 12,
+    "image": "12-cupcakes.jpg"
+  },
+  {
+    "title": "Birthday Cake",
+    "description": "Choose from Mini Eggs, Smarties, Malteaser",
+    "price": "50+",
+    "image": "birthday-cake.jpg"
+  },
+  {
+    "title": "Box of Cake Pops",
+    "description": "Assorted flavours of cakes on a stick",
+    "price": 10,
+    "image": "cake-pops.jpg"
+  },
+  {
+    "title": "Carrot Cake",
+    "description": "A carrot cake, great for birthdays or other events. <br><br>Warning: Not 1 of your 5 a day",
+    "price": 30,
+    "image": "carrot-cake.jpg"
+  },
+  {
+    "title": "Box of 6 Cheesecakes",
+    "description": "Choose from Biscoff, Kinder, Chocolate, Daim and or any other chocolate bar you want",
+    "price": 15,
+    "image": "cheesecake.jpg"
+  },
+  {
+    "title": "Chocolate Cake",
+    "description": "Perfect for birthdays, retirment parties or let's face it, Sundays",
+    "price": "50+",
+    "image": "chocolate_cake.jpg"
+  },
+  {
+    "title": "Giant Cupcake",
+    "description": "Give someone a giant cupcake to celebrate any life event",
+    "price": "40+",
+    "image": "giant-cupcake.jpg"
+  },
+  {
+    "title": "Letter Cupcake Arrangement",
+    "description": "Choose from Jam, Chocolate, Toffee or a mix",
+    "price": 50,
+    "image": "letter-cupcakes.jpg"
+  },
+  {
+    "title": "Number Cake",
+    "description": "Choose from Jam, Chocolate, Toffee",
+    "price": 40,
+    "image": "number-cake.jpg"
+  }
+]
