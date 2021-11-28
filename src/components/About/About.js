@@ -1,5 +1,3 @@
-import { telephoneNumber, emailAddress } from "../../config/appData";
-
 import styled from "styled-components";
 const AboutWrapper = styled.div`
   padding: 50px;

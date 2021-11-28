@@ -1,5 +1,3 @@
-import { withTheme } from "styled-components";
-
 const AppTheme = {
   textColor: "#ff8080",
   backgroundColor: "#99CFFD75",

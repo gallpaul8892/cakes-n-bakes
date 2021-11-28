@@ -1,8 +1,7 @@
 {
-  "name": "computermechanic-glasgow",
+  "name": "cakes-n-bakes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://computermechanic-glasgow.co.uk/",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/lab": "^4.0.0-alpha.58",
@@ -24,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "echo computermechanic-glasgow.co.uk > ./build/CNAME && gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "sass": "sass src/Style/Sass:src/Style/Css --watch --no-source-map"
   },
   "eslintConfig": {
