@@ -24,6 +24,14 @@ const AppWrapper = styled.div`
     width: 100%;
     object-fit: cover;
   }
+
+  @media (max-width: 400px) {
+    .max-height {
+      height: 250px;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
 `;
 
 function App() {

@@ -5,12 +5,11 @@ import styled from "styled-components";
 const HeaderWrapper = styled.div`
   font-weight: lighter;
   width: 100%;
-  height: 210px;
   background: ${(props) => props.theme.backgroundColor};
 
   img {
+    height: 150px;
     margin: 10px 0;
-    height: 120px;
     object-fit: cover;
     width: 400px;
     position: relative;
@@ -45,6 +44,7 @@ const ContactSection = styled.div`
   }
 
   @media (max-width: 480px) {
+    design: block;
     a {
       display: block;
     }
